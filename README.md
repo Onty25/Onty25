@@ -4,7 +4,6 @@
 - 📫 How to reach me Email - broklenn@gmail.com
 - Instagram - onty_21..
 - ⚡ Fun fact: Confused always ...
-- 
 
 <!---
 Onty25/Onty25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
